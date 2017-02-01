@@ -31,9 +31,9 @@ Create the following variables and in a comment after the variable, state the ty
 
 Remember you can test all of these in the javascript console in the browser!
 
-git add .
-git commit -m "a message"
-git push origin master
+1.  `git add .`
+2.  `git commit -m "a message"`
+3.  `git push origin master`
 
 Go to your github fork, and make a pull request!
 
