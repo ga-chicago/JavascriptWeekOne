@@ -1,5 +1,5 @@
 1.
-var pi = 3.14
+var pi = 3.14159
 //Number (float)
 var name = "Naomi Charlotte Mine"
 //String
