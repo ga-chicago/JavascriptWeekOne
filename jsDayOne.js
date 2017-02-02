@@ -44,20 +44,20 @@ var myTravels = ["Where am I going?", "Europe", "Japan", 8]
 
 //Part III
 
-var personAge = 26;
+var personAge = function(x){
 
-if (personAge >= 21) {
+if (x >= 21) {
 	console.log("You may drink the sweet nectar of the gods")
 }
-	else if (personAge < 21) {
+	else if (x < 21) {
 		console.log("Go home, it's past your bedtime.")
 	}
 
 	else {
 		console.log("Not an age")
 	};
+}
 
-"You may drink the sweet nectar of the gods"
 
 
 //End of HW
