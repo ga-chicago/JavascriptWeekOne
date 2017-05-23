@@ -25,9 +25,14 @@ Create the following variables and in a comment after the variable, state the ty
 
 #### 2. Conditional Trials
 
-* Create a logical block that detects if a user is able to purchase alcohol.
+* Create a function that detects if a user is able to purchase alcohol.
 * If so, `console.log` out that they may have a drink.
 * Else, warn them via `console.log` to not break the law.
+
+#### 3.
+
+Create a function that take an integer (in Fahrenheit) and convert the temperature to Celsius.
+The output of the program should read: "X degrees Fahrenheit is Y degrees Celsius"
 
 Remember you can test all of these in the javascript console in the browser!
 
