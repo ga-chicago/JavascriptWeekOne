@@ -41,4 +41,3 @@ Remember you can test all of these in the javascript console in the browser!
 3.  `git push origin master`
 
 Go to your github fork, and make a pull request!
-
