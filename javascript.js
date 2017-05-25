@@ -16,7 +16,7 @@ var alcohol = function(age) {
 
     console.log("you may have a drink");
 
-  } else {
+  } else { 
 
     console.log("you may not have a drink");
   }
