@@ -1,6 +1,6 @@
 # JavascriptWeekOne
 Control flow, boolean, variables dataTypes
-
+h
 #### 1. Data Types
 
 Create the following variables and in a comment after the variable, state the type that it is. If you are unsure of the type, use the function `typeof` to find it out. Note that some types may not be what you expect...
